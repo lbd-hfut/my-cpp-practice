@@ -1,0 +1,3 @@
+/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles/my_app.dir
+/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles/edit_cache.dir
+/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles/rebuild_cache.dir
