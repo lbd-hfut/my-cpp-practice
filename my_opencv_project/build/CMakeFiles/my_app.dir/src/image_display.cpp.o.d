@@ -1,7 +1,7 @@
 CMakeFiles/my_app.dir/src/image_display.cpp.o: \
- /home/lbd/Code/mytest/my_opencv_project/src/image_display.cpp \
+ /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp \
  /usr/include/stdc-predef.h \
- /home/lbd/Code/mytest/my_opencv_project/include/image_display.h \
+ /home/lbd/Code/my-cpp-practice/my_opencv_project/include/image_display.h \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

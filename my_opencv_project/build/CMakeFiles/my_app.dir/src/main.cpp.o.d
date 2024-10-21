@@ -1,5 +1,5 @@
 CMakeFiles/my_app.dir/src/main.cpp.o: \
- /home/lbd/Code/mytest/my_opencv_project/src/main.cpp \
+ /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/12/iostream \
  /usr/include/x86_64-linux-gnu/c++/12/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/12/bits/os_defines.h \
@@ -148,7 +148,7 @@ CMakeFiles/my_app.dir/src/main.cpp.o: \
  /usr/include/c++/12/bits/basic_ios.tcc \
  /usr/include/c++/12/bits/ostream.tcc /usr/include/c++/12/istream \
  /usr/include/c++/12/bits/istream.tcc \
- /home/lbd/Code/mytest/my_opencv_project/include/image_display.h \
+ /home/lbd/Code/my-cpp-practice/my_opencv_project/include/image_display.h \
  /usr/include/opencv4/opencv2/opencv.hpp \
  /usr/include/opencv4/opencv2/opencv_modules.hpp \
  /usr/include/opencv4/opencv2/core.hpp \

@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lbd/Code/mytest/my_opencv_project
+CMAKE_SOURCE_DIR = /home/lbd/Code/my-cpp-practice/my_opencv_project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lbd/Code/mytest/my_opencv_project/build
+CMAKE_BINARY_DIR = /home/lbd/Code/my-cpp-practice/my_opencv_project/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/my_app.dir/clean
 CMakeFiles/my_app.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_app.dir/build.make CMakeFiles/my_app.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/my_app.dir/build.make CMakeFiles/my_app.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles --progress-num=1,2,3 "Built target my_app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles --progress-num=1,2,3 "Built target my_app"
 .PHONY : CMakeFiles/my_app.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/my_app.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/my_app.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles 0
 .PHONY : CMakeFiles/my_app.dir/rule
 
 # Convenience name for target.

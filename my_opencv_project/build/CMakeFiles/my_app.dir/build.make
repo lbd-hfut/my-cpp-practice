@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/lbd/Code/mytest/my_opencv_project
+CMAKE_SOURCE_DIR = /home/lbd/Code/my-cpp-practice/my_opencv_project
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/lbd/Code/mytest/my_opencv_project/build
+CMAKE_BINARY_DIR = /home/lbd/Code/my-cpp-practice/my_opencv_project/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/my_app.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/my_app.dir/progress.make
 include CMakeFiles/my_app.dir/flags.make
 
 CMakeFiles/my_app.dir/src/main.cpp.o: CMakeFiles/my_app.dir/flags.make
-CMakeFiles/my_app.dir/src/main.cpp.o: /home/lbd/Code/mytest/my_opencv_project/src/main.cpp
+CMakeFiles/my_app.dir/src/main.cpp.o: /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp
 CMakeFiles/my_app.dir/src/main.cpp.o: CMakeFiles/my_app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/my_app.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_app.dir/src/main.cpp.o -MF CMakeFiles/my_app.dir/src/main.cpp.o.d -o CMakeFiles/my_app.dir/src/main.cpp.o -c /home/lbd/Code/mytest/my_opencv_project/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/my_app.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_app.dir/src/main.cpp.o -MF CMakeFiles/my_app.dir/src/main.cpp.o.d -o CMakeFiles/my_app.dir/src/main.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp
 
 CMakeFiles/my_app.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_app.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lbd/Code/mytest/my_opencv_project/src/main.cpp > CMakeFiles/my_app.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp > CMakeFiles/my_app.dir/src/main.cpp.i
 
 CMakeFiles/my_app.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_app.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lbd/Code/mytest/my_opencv_project/src/main.cpp -o CMakeFiles/my_app.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp -o CMakeFiles/my_app.dir/src/main.cpp.s
 
 CMakeFiles/my_app.dir/src/image_display.cpp.o: CMakeFiles/my_app.dir/flags.make
-CMakeFiles/my_app.dir/src/image_display.cpp.o: /home/lbd/Code/mytest/my_opencv_project/src/image_display.cpp
+CMakeFiles/my_app.dir/src/image_display.cpp.o: /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp
 CMakeFiles/my_app.dir/src/image_display.cpp.o: CMakeFiles/my_app.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/my_app.dir/src/image_display.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_app.dir/src/image_display.cpp.o -MF CMakeFiles/my_app.dir/src/image_display.cpp.o.d -o CMakeFiles/my_app.dir/src/image_display.cpp.o -c /home/lbd/Code/mytest/my_opencv_project/src/image_display.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/my_app.dir/src/image_display.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_app.dir/src/image_display.cpp.o -MF CMakeFiles/my_app.dir/src/image_display.cpp.o.d -o CMakeFiles/my_app.dir/src/image_display.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp
 
 CMakeFiles/my_app.dir/src/image_display.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/my_app.dir/src/image_display.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lbd/Code/mytest/my_opencv_project/src/image_display.cpp > CMakeFiles/my_app.dir/src/image_display.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp > CMakeFiles/my_app.dir/src/image_display.cpp.i
 
 CMakeFiles/my_app.dir/src/image_display.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/my_app.dir/src/image_display.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lbd/Code/mytest/my_opencv_project/src/image_display.cpp -o CMakeFiles/my_app.dir/src/image_display.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp -o CMakeFiles/my_app.dir/src/image_display.cpp.s
 
 # Object files for target my_app
 my_app_OBJECTS = \
@@ -164,7 +164,7 @@ my_app: /usr/lib/x86_64-linux-gnu/libopencv_photo.so.4.6.0
 my_app: /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.6.0
 my_app: /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.6.0
 my_app: CMakeFiles/my_app.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable my_app"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable my_app"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/my_app.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -176,6 +176,6 @@ CMakeFiles/my_app.dir/clean:
 .PHONY : CMakeFiles/my_app.dir/clean
 
 CMakeFiles/my_app.dir/depend:
-	cd /home/lbd/Code/mytest/my_opencv_project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lbd/Code/mytest/my_opencv_project /home/lbd/Code/mytest/my_opencv_project /home/lbd/Code/mytest/my_opencv_project/build /home/lbd/Code/mytest/my_opencv_project/build /home/lbd/Code/mytest/my_opencv_project/build/CMakeFiles/my_app.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/lbd/Code/my-cpp-practice/my_opencv_project/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/lbd/Code/my-cpp-practice/my_opencv_project /home/lbd/Code/my-cpp-practice/my_opencv_project /home/lbd/Code/my-cpp-practice/my_opencv_project/build /home/lbd/Code/my-cpp-practice/my_opencv_project/build /home/lbd/Code/my-cpp-practice/my_opencv_project/build/CMakeFiles/my_app.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/my_app.dir/depend
 

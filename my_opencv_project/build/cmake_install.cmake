@@ -1,4 +1,4 @@
-# Install script for directory: /home/lbd/Code/mytest/my_opencv_project
+# Install script for directory: /home/lbd/Code/my-cpp-practice/my_opencv_project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lbd/Code/mytest/my_opencv_project/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lbd/Code/my-cpp-practice/my_opencv_project/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/lbd/Code/mytest/my_opencv_project/src/image_display.cpp" "CMakeFiles/my_app.dir/src/image_display.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/image_display.cpp.o.d"
-  "/home/lbd/Code/mytest/my_opencv_project/src/main.cpp" "CMakeFiles/my_app.dir/src/main.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/main.cpp.o.d"
+  "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp" "CMakeFiles/my_app.dir/src/image_display.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/image_display.cpp.o.d"
+  "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp" "CMakeFiles/my_app.dir/src/main.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links.
