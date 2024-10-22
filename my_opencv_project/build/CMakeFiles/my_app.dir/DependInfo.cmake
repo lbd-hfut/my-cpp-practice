@@ -12,8 +12,12 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp" "CMakeFiles/my_app.dir/src/main.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/main.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

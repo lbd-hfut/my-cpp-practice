@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project",
+  "command": "/usr/sbin/c++  -I/home/lbd/Code/my-cpp-practice/my_opencv_project/include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/my_app.dir/src/main.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp",
+  "output": "my_opencv_project/CMakeFiles/my_app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project",
+  "command": "/usr/sbin/c++  -I/home/lbd/Code/my-cpp-practice/my_opencv_project/include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/my_app.dir/src/image_display.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp",
+  "output": "my_opencv_project/CMakeFiles/my_app.dir/src/image_display.cpp.o"
+}
+]
