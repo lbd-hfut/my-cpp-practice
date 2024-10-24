@@ -1,5 +1,8 @@
 /home/lbd/Code/my-cpp-practice/out/Debug/CMakeFiles/edit_cache.dir
 /home/lbd/Code/my-cpp-practice/out/Debug/CMakeFiles/rebuild_cache.dir
+/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation/CMakeFiles/CppStepsSearch.dir
+/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation/CMakeFiles/edit_cache.dir
+/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation/CMakeFiles/rebuild_cache.dir
 /home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project/CMakeFiles/my_app.dir
 /home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project/CMakeFiles/edit_cache.dir
 /home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project/CMakeFiles/rebuild_cache.dir

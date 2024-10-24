@@ -1,14 +1,32 @@
 [
 {
-  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project",
-  "command": "/usr/sbin/c++  -I/home/lbd/Code/my-cpp-practice/my_opencv_project/include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/my_app.dir/src/main.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp",
-  "file": "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp",
-  "output": "my_opencv_project/CMakeFiles/my_app.dir/src/main.cpp.o"
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation",
+  "command": "/usr/bin/c++  -I/home/lbd/Code/my-cpp-practice/digital-image-correlation/include -g -std=gnu++11 -o CMakeFiles/CppStepsSearch.dir/src/main.cpp.o -c /home/lbd/Code/my-cpp-practice/digital-image-correlation/src/main.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/digital-image-correlation/src/main.cpp"
+},
+{
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation",
+  "command": "/usr/bin/c++  -I/home/lbd/Code/my-cpp-practice/digital-image-correlation/include -g -std=gnu++11 -o CMakeFiles/CppStepsSearch.dir/src/StepsSearch.cpp.o -c /home/lbd/Code/my-cpp-practice/digital-image-correlation/src/StepsSearch.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/digital-image-correlation/src/StepsSearch.cpp"
+},
+{
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation",
+  "command": "/usr/bin/c++  -I/home/lbd/Code/my-cpp-practice/digital-image-correlation/include -g -std=gnu++11 -o CMakeFiles/CppStepsSearch.dir/src/EvalPoints.cpp.o -c /home/lbd/Code/my-cpp-practice/digital-image-correlation/src/EvalPoints.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/digital-image-correlation/src/EvalPoints.cpp"
+},
+{
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/digital-image-correlation",
+  "command": "/usr/bin/c++  -I/home/lbd/Code/my-cpp-practice/digital-image-correlation/include -g -std=gnu++11 -o CMakeFiles/CppStepsSearch.dir/src/ImageProcessing.cpp.o -c /home/lbd/Code/my-cpp-practice/digital-image-correlation/src/ImageProcessing.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/digital-image-correlation/src/ImageProcessing.cpp"
 },
 {
   "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project",
-  "command": "/usr/sbin/c++  -I/home/lbd/Code/my-cpp-practice/my_opencv_project/include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/my_app.dir/src/image_display.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp",
-  "file": "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp",
-  "output": "my_opencv_project/CMakeFiles/my_app.dir/src/image_display.cpp.o"
+  "command": "/usr/bin/c++  -I/home/lbd/Code/my-cpp-practice/my_opencv_project/include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/my_app.dir/src/main.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/main.cpp"
+},
+{
+  "directory": "/home/lbd/Code/my-cpp-practice/out/Debug/my_opencv_project",
+  "command": "/usr/bin/c++  -I/home/lbd/Code/my-cpp-practice/my_opencv_project/include -isystem /usr/include/opencv4 -g -std=gnu++17 -o CMakeFiles/my_app.dir/src/image_display.cpp.o -c /home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp",
+  "file": "/home/lbd/Code/my-cpp-practice/my_opencv_project/src/image_display.cpp"
 }
 ]

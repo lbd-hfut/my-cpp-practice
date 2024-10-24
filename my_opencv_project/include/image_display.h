@@ -4,6 +4,6 @@
 #include <opencv2/opencv.hpp>
 #include <string>
 
-void displayImage(const std::string& imagePath);
+void displayImage(const std::string &imagePath);
 
 #endif // IMAGE_DISPLAY_H
